@@ -94,5 +94,5 @@ This project helps Teachers to take attendance and store, fetch data from mysql 
 
 # Contact :
 
- <p>mailto:m.mohsin.iqbal@gmail.com</p>
+ <p>mailto:m.mohsin.iqbal@outlook.com</p>
 
