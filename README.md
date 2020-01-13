@@ -53,6 +53,7 @@ This project helps Teachers to take attendance and store, fetch data from mysql 
 
 # Note
 1. User login details is predefined (manually insert login details in demo2/teacher table).
+2.usernam is "user" and password is "123123"
 
 # ScreenShots
 <p>
