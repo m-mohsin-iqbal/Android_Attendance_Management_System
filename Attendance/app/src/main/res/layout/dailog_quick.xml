@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BF360C"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/total_present"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:ellipsize="end"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:maxLines="1"
+        android:padding="4dp"
+        android:text="Total :"
+        android:textColor="#F8F7F7"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/total_absent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="4dp"
+        android:ellipsize="end"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:maxLines="1"
+        android:padding="4dp"
+        android:text="Total :"
+        android:textColor="#F8F7F7"
+        android:textSize="16sp" />
+
+</LinearLayout>
